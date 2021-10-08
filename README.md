@@ -4,5 +4,5 @@ Google Drive LINK - https://drive.google.com/drive/folders/1XPdCNKGIKclHlljjDmwC
 
 Description -
 
-This project was created as an assignment for AR book project where we had to create an APK which displays 3d model when it is hovered over book pages which has the image on it.
+This project was created as an assignment for AR book project where we had to create an APK which displays 3d model when it is hovered over book pages with drawings created by the children.
 
